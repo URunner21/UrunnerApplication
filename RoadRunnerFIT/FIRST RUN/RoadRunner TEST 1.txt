@@ -1,0 +1,63 @@
+public key: HSHY3LJpxzJJGAr2Q3SVjP9WekgDHgFLAHfPz21ufMQo
+
+TOKEN
+Creating token 8bosbbufBRQeF23tumTQWJVUwmX5PJ2h5vpmzzcs44pL
+
+
+Signature: 37kPQK5276gW2k8BbPi8wWAyd43tJBLsfda9GoduxoGY5y8DX7fygfh5yhcVKa6y2npPF
+4FxySJemasNVCcRE4Zu
+
+
+Github PAT:  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 
+
+
+ACCOUNT 
+Creating account DPuy9gP99bacKYPCpD5syNJfDKBty4VHs679HA1mUKXw
+
+Signature: 583m8wtZDpTQYr6R3whu8RW5zmCraPy1nFDC8sUuFnAzSGuT6kUeFvyea67TmGWpqeCu4
+
+
+
+FIRST MINT OF 100 TOKENS
+zUE7cYArxy5ufRAdumL
+Minting 100 tokens
+  Token: 8bosbbufBRQeF23tumTQWJVUwmX5PJ2h5vpmzzcs44pL
+  Recipient: DPuy9gP99bacKYPCpD5syNJfDKBty4VHs679HA1mUKXw
+? [0/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [0/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [0/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [0/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [0/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [0/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [0/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [0/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [0/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [0/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [0/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [0/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [0/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [0/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [0/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [1/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [1/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [1/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [1/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [1/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [1/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [1/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [1/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [1/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [1/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [1/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [1/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [1/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [1/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+? [1/1] Finalizing transaction 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbD
+
+Signature: 21Tgkdbwy5fayom2WtEL3qHe7BFmyYddehK8E9UzrD4Kt4wbDrKfTp7UnqHYEbY5NcBC3
+
+
+
+
+8bosbbufBRQeF23tumTQWJVUwmX5PJ2h5vpmzzcs44pL
+sNkdSxns7tzVWgnWvMF
